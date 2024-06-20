@@ -8,7 +8,7 @@ I have assigned Metasploitable 2 an IP of 192.168.20.2 and Kali 192.168.20.1.
 
 <h2>NMAP Scan</h2>
 When scanning the victim, I’m looking for open ports, services and version numbers because older version might have vulnerabilities.</br>
-![image](https://github.com/kofiarthurs/Metasploitable-2/assets/43903197/d767cdd2-9ff0-46f1-ab4c-3ee64768d428)</br>
+https://imgur.com/KTlFKY8</br>
 ![image](https://github.com/kofiarthurs/Metasploitable-2/assets/43903197/c6930e2e-3978-4859-9cfa-1371001445ff)
 
 <h2>Nessus Scan</h2>
