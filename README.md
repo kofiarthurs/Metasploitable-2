@@ -4,7 +4,7 @@
 In this lab, I exploit Metasploitable 2 (victim) using Kali (Attacker). I aim to scan the machine for vulnerabilities using NMAP and NESSUS, find the shadow file and crack the hashes.
 </br>
 </br>
-I have assigned Metasploitable 2 an IP of 192.168.20.2 and Kali 192.168.20.1.
+I have assigned Metasploitable 2 an IP of 192.168.20.2/24 and Kali 192.168.20.1/24.
 
 <h2>NMAP Scan</h2>
 When scanning the victim, I’m looking for open ports, services and version numbers because older version might have vulnerabilities.</br>
