@@ -1,4 +1,4 @@
-<h1>Metasploitable 2 – Exploiting NFS and cracking hashes with JohnTheRipper</h1>
+<h1>Metasploitable 2 – Exploiting NFS and Cracking Hashes with JohnTheRipper</h1>
 
 <h2>Description</h2>
 In this lab, I exploit Metasploitable 2 (victim) using Kali (Attacker). I aim to scan the machine for vulnerabilities using NMAP and NESSUS, find the shadow file and crack the hashes.
